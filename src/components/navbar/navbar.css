@@ -1,0 +1,10 @@
+.navbar {
+    background: linear-gradient(rgba(0, 0, 0, 0.826), rgba(0, 0, 0, 0.729)), url(.//publicNav/portada-2.jpg);
+}
+.navbar-brand {
+    font-size: 40px;
+    font-style: oblique;
+    background-color: brown;
+    padding-right: 10px;
+    color: black;
+}

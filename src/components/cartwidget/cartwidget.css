@@ -1,0 +1,11 @@
+.btn{
+    display: flex;
+    border-radius: 5px;
+    font-size: 40px;
+}
+.btn p{
+    font-size: 25px;
+    background-color: brown;
+    border-radius: 10px;
+    color: black;
+}
