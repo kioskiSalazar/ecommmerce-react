@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "consolas",
+        "nombre": "Playstation",
+        "marca": "Sony",
+        "modelo": "1",
+        "precio": 30000,
+        "stock": 15,
+        "img": "ps1.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "consolas",
+        "nombre": "Playstation",
+        "marca": "Sony",
+        "modelo": "2",
+        "precio": 45000,
+        "stock": 15,
+        "img": "ps2.webp"
+    },
+    {
+        "id": 3,
+        "idCategoria": "consolas",
+        "nombre": "Playstation",
+        "marca": "Sony",
+        "modelo": "3",
+        "precio": 60000,
+        "stock": 15,
+        "img": "ps3.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "consolas",
+        "nombre": "Playstation",
+        "marca": "Sony",
+        "modelo": "4",
+        "precio": 100000,
+        "stock": 15,
+        "img": "ps4.webp"
+    },
+    {
+        "id": 5,
+        "idCategoria": "consolas",
+        "nombre": "Playstation",
+        "marca": "Sony",
+        "modelo": "5",
+        "precio": 230000,
+        "stock": 15,
+        "img": "ps5.webp"
+    },
+    {
+        "id": 6,
+        "idCategoria": "consolas",
+        "nombre": "Xbox",
+        "marca": "Microsoft",
+        "modelo": "360",
+        "precio": 60000,
+        "stock": 15,
+        "img": "xbox360.webp"
+    },
+    {
+        "id": 7,
+        "idCategoria": "consolas",
+        "nombre": "Xbox",
+        "marca": "Microsoft",
+        "modelo": "One",
+        "precio": 80000,
+        "stock": 15,
+        "img": "one.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "consolas",
+        "nombre": "Xbox",
+        "marca": "Microsoft",
+        "modelo": "One x",
+        "precio": 100000,
+        "stock": 15,
+        "img": "x.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria":"consolas",
+        "nombre": "Xbox",
+        "marca": "Microsoft",
+        "modelo": "Serie x",
+        "precio": 215000,
+        "stock": 15,
+        "img": "seriex.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Microsoft",
+        "modelo": "Xbox 360",
+        "precio": 60000,
+        "stock": 15,
+        "img": "joys360.webp"
+    },
+    {
+        "id": 11,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Microsoft",
+        "modelo": "Xbox one/x/Serie x",
+        "precio": 20000,
+        "stock": 15,
+        "img": "joysone.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Sony",
+        "modelo": "Ps 1",
+        "precio": 5000,
+        "stock": 15,
+        "img": "joysps1.webp"
+    },
+    {
+        "id": 13,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Sony",
+        "modelo": "Ps 2",
+        "precio": 8000,
+        "stock": 15,
+        "img": "joysps2.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Sony",
+        "modelo": "Ps 3",
+        "precio": 10000,
+        "stock": 15,
+        "img": "joysps3.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Sony",
+        "modelo": "Ps 4",
+        "precio": 13000,
+        "stock": 15,
+        "img": "joysps4.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Sony",
+        "modelo": "Ps 5",
+        "precio": 25000,
+        "stock": 15,
+        "img": "joysps5.jpg"
+    },
+    {
+        "id": 17,
+        "idCategoria": "accesorios",
+        "nombre": "Volante",
+        "marca": "Logitech",
+        "modelo": "Logitech",
+        "precio": 80000,
+        "stock": 10,
+        "img": "logitech.webp"
+    },
+    {
+        "id": 18,
+        "idCategoria": "accesorios",
+        "nombre": "Volante",
+        "marca": "Thrutsmaster",
+        "modelo": "Thrutsmaster",
+        "precio": 90000,
+        "stock": 10,
+        "img": "thruts.jpg"
+    },
+    {
+        "id": 19,
+        "idCategoria": "juegos",
+        "nombre": "Fifa 23",
+        "marca": "sony",
+        "modelo": "Ps4",
+        "precio": 9000,
+        "stock": 18,
+        "img": "fifa23.jpg"
+    }, 
+    {
+        "id": 20,
+        "idCategoria": "juegos",
+        "nombre": "Gear of war 4",
+        "marca": "Microsoft",
+        "modelo": "Xbox one",
+        "precio": 8000,
+        "stock": 12,
+        "img": "gear.jpg"
+    }, 
+    {
+        "id": 21,
+        "idCategoria": "juegos",
+        "nombre": "Gta san andrea",
+        "marca": "Sony",
+        "modelo": "Ps2",
+        "precio": 5000,
+        "stock": 10,
+        "img": "gta.jpg"
+    },
+     {
+        "id": 22,
+        "idCategoria": "juegos",
+        "nombre": "Minecraft",
+        "marca": "Microsoft",
+        "modelo": "Xbox 360",
+        "precio": 7000,
+        "stock": 10,
+        "img": "mine.jpg"
+    }
+]
