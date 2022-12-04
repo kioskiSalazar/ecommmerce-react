@@ -9,7 +9,7 @@ const {id} = useParams()
 useEffect(() => {
    
 consultarBDD('../json/productos.json').then(productos => {
-    const prod = productos.find(product => product.id === id)
+    const prod = productos.find(product => product.id === parseInt(id) )
     setproducto(prod)
 })
 }, []);
