@@ -1,14 +1,19 @@
 import './cartwidget.css';
+import { Link } from 'react-router-dom';
+import { useCarritoContext } from '../../context/carritoContex';
+
 const Cartwidget = () => {
+  const {getItemQuantity} =useCarritoContext()
+  
     return (
     <>
-    <ul className='navbar-nav '>
-      <li>
+    <div className='navbar-nav cart'>
+     
        
-        <button class="btn btn-outline-success" type="submit" className="btn btn-info" >🛒<p>0</p></button>
-        </li>
+        <button className="btn btn-outline-success-info cart" type="submit" ><Link className='link-cart' to={"/cart"}>{getItemQuantity() > 0 && <p>{getItemQuantity()}</p>}🛒</Link></button>
+        
 
-      </ul>
+      </div>
     </>  
       
       

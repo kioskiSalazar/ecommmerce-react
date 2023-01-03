@@ -2,13 +2,20 @@
     background: linear-gradient(rgba(0, 0, 0, 0.826), rgba(0, 0, 0, 0.729)), url(.//publicNav/portada-2.jpg);
 }
 .navbar-brand {
-    font-size: 40px;
+    font-size: 3vw;
     font-style: oblique;
     background-color: brown;
-    padding-right: 10px;
+    
     color: black;
 }
 .home{
     color: aliceblue;
     text-decoration: none;
+    font-size: 2vw;
+}
+.cat{
+    font-size: 1.5vw !important;
+}
+.categ{
+font-size: x-large;
 }

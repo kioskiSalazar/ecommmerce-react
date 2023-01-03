@@ -2,10 +2,11 @@
     width: 100rem;
     margin: 14px;
     background-color: hsl(0, 0%, 97%);
-     margin: 4px;
     align-items:center;
     justify-content: center;
     padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cardBody {
@@ -21,6 +22,25 @@ img {
 .itemDetail{
 max-width: 540px;
 margin-top: 20px;
+}
+.formu{
+    color: aliceblue;
+    font-size: 22px;
+}
+.darkMode {
+background-color: black;
+color: aliceblue;
+}
+.cardBodyDark {
+    background-color: hsl(0, 0%, 0%);
+    margin-bottom: 3px;
+    text-align: center;
+}
+.cnt{
+    margin-left: auto;
+    margin-right: auto;
+}
+.cnt-btn{
 
-
+margin-left: 85px;
 }
