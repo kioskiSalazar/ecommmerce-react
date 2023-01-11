@@ -1,3 +1,6 @@
+# Curso React.js
+_Comision 41100_
+
 # React-mundo-consolas
 _Proyecto final React.js_
 
@@ -13,4 +16,5 @@ npm i
 * [Firebase] (https://firebase.google.com/) - NoSQL Database
 
 ## Video demostracion
-[![alt text]()]
+
+[![Alt text](https://img.youtube.com/vi/gYHc5gCC3aI/0.jpg)](https://www.youtube.com/watch?v=gYHc5gCC3aI)
