@@ -53,7 +53,7 @@ const Checkout = () => {
                     <input type="email" className="form-control" name="email" />
                 </div>
                 <div className="mb-3">
-                    <label htmlFor="email" className="form-label">Reingreasar Email</label>
+                    <label htmlFor="email" className="form-label">Reingresar Email</label>
                     <input type="email" className="form-control" name="email" />
                 </div>
                 <div className="mb-3">
